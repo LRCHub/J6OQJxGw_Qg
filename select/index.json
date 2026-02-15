@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "片道切符のかくれんぼ",
+  "base_artist": "Jams Collection",
+  "createdAt": "2026-02-15T14:18:13.576415Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "片道切符のかくれんぼ",
+      "artist": "Jams Collection",
+      "has_synced": false,
+      "path": "select/pl_01_片道切符のかくれんぼ_Jams_Collection.txt"
+    }
+  ]
+}
